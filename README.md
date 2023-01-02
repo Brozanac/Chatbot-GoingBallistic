@@ -6,3 +6,10 @@ The same model can be used for creating chatbots for any type of organizations.
 <img src = "https://cdn-images-1.medium.com/max/800/1*SAHhdvu3v9l81OjsfBa_Yw.jpeg" />
 
 ## Thank You
+
+
+Going Ballistic : 
+
+Adds user inputs to responses.
+
+inputs file borrowed from Tech With Tim
